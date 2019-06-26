@@ -7,3 +7,5 @@ this is checking reset command
 this is checking reset ++++++++=============
 ==============
 after
+==================
+one
